@@ -1,0 +1,28 @@
+Batch 1:
+"tt0097576" "tt0110912" "tt0120338" "tt0241527" "tt0416320" "tt0970416" "tt1189340" "tt1568346"
+"tt0100405" "tt0114924" "tt0146882" "tt0286106" "tt0455824" "tt0988595" "tt1193138" "tt1570728"
+
+Batch 2:
+"tt0106918" "tt0116695" "tt0147800" "tt0307987" "tt0467406" "tt1010048" "tt1285016" "tt1632708"
+"tt0037884" "tt0108160" "tt0118715" "tt0167404" "tt0317198" "tt0478311" "tt1013753" "tt1385826" "tt1798709"
+
+Batch 3:
+"tt0068646" "tt0109830" "tt0118842" "tt0212338" "tt0375679" "tt0790636" "tt1045658" "tt1454029" "tt1907668"
+"tt0073486" "tt0109831" "tt0119822" "tt0240772" "tt0388795" "tt0822832" "tt1142988" "tt1499658" "tt2267998"
+
+
+
+
+
+ squeue | grep kolubex  
+            956743      long final4_1  kolubex PD       0:00      1 (AssocGrpGRES)
+            956742      long final3.s  kolubex PD       0:00      1 (AssocGrpGRES)
+            956741      long final2.s  kolubex PD       0:00      1 (AssocGrpGRES)
+            956740      long final1.s  kolubex  R       0:46      1 gnode023
+            956739      long final.sh  kolubex  R       0:49      1 gnode091
+            956720      long interact  kolubex  R      20:29      1 gnode027
+
+squeue | grep kolubex
+            956954      long final3.s  kolubex  R       0:01      1 gnode035
+            956953      long final2.s  kolubex  R       0:07      1 gnode027
+
