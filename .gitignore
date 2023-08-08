@@ -1,0 +1,5 @@
+# example files and directories
+
+./__pycache__
+./logs
+./wavlm_models
